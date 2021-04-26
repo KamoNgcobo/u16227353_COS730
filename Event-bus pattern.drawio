@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T21:25:18.131Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="3HViTus3NWH2I8Tzc5zD" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-26T21:33:57.273Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="btiPm_hpMiUXV2ckCZDi" version="14.6.6" type="github" pages="3">
   <diagram id="opIeAeccDCq-OL6fe-vh" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -104,6 +104,53 @@
           <mxGeometry width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JaK8UNHn8kUkffKxx-Hb-63" value="Post-condition: User is able to search, view and edit added receipt&amp;nbsp;&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="JaK8UNHn8kUkffKxx-Hb-62">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jnlfi2sm4i6HeyJ2cWgS" name="Page-3">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-0" />
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-1" parent="yjBMkkfuiK8w02P4XCiy-0" />
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-2" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-1">
+          <mxGeometry x="280" y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-2">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-4" value="Precondition: User has signed up, is logged in and wants to view receipts&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-3">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-5" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-1">
+          <mxGeometry x="280" y="80" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-5">
+          <mxGeometry width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-7" value="Actor: Secretary" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-6">
+          <mxGeometry width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-8" value="System: Receipts" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-6">
+          <mxGeometry x="160" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-5">
+          <mxGeometry y="30" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-10" value="1. User confirms role&lt;br&gt;3. Selects &quot;Search receipts&quot; button&amp;nbsp;&lt;br&gt;5. Selects receipts if available&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-9">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-11" value="0. System verifies if it is the secretary logged in&amp;nbsp;&lt;br&gt;2. System shows home page&amp;nbsp;&lt;br&gt;4. System search&#39;s if receipt is available&amp;nbsp;&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-9">
+          <mxGeometry x="160" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-12" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-1">
+          <mxGeometry x="280" y="210" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-12">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yjBMkkfuiK8w02P4XCiy-14" value="Post-condition: System displays selected receipts and user is able to view selected receipts&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="yjBMkkfuiK8w02P4XCiy-13">
           <mxGeometry width="320" height="40" as="geometry" />
         </mxCell>
       </root>
